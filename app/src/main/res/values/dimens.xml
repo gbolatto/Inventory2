@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="phone_button_size">48dp</dimen>
+    <dimen name="detail_overall_margin">16dp</dimen>
+    <dimen name="detail_quantity_picker_button">48dp</dimen>
+    <dimen name="detail_quantity_picker_count_margins">16dp</dimen>
+    <dimen name="list_view_margin">8dp</dimen>
+    <dimen name="list_item_key_margin_end">4dp</dimen>
+    <dimen name="main_sell_button_size">48dp</dimen>
+
+    <dimen name="edit_field_margin_bottom">16dp</dimen>
+</resources>
